@@ -59,48 +59,50 @@ proxies:
   - {name: cf.877771.xyz-80-WS, server: cf.877771.xyz, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
   - {name: xn--b6gac.eu.org-443-WS-TLS, server: xn--b6gac.eu.org, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
   - {name: xn--b6gac.eu.org-80-WS, server: xn--b6gac.eu.org, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS, server: 104.18.30.55, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS, server: 104.18.30.55, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 2, server: 172.67.175.235, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 2, server: 172.67.175.235, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 3, server: 172.66.47.180, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 3, server: 172.66.47.180, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 4, server: 104.18.190.221, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 4, server: 104.18.190.221, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 5, server: 104.19.173.39, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 5, server: 104.19.173.39, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-443-WS-TLS, server: 104.17.141.99, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-80-WS, server: 104.17.141.99, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-443-WS-TLS 2, server: 104.17.159.146, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-80-WS 2, server: 104.17.159.146, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-443-WS-TLS 3, server: 104.18.239.167, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-80-WS 3, server: 104.18.239.167, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-443-WS-TLS 4, server: 104.21.239.106, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-80-WS 4, server: 104.21.239.106, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-443-WS-TLS 5, server: 104.16.174.144, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 联通-80-WS 5, server: 104.16.174.144, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-443-WS-TLS, server: 172.64.32.121, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-80-WS, server: 172.64.32.121, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 6, server: 2606:4700:9aee::fbd:2162, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 6, server: 2606:4700:9aee::fbd:2162, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 7, server: 2606:4700:9a6d::2ff5:50c7, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 7, server: 2606:4700:9a6d::2ff5:50c7, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 8, server: 2606:4700:9b0e::5150:6b4f, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 8, server: 2606:4700:9b0e::5150:6b4f, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 9, server: 2606:4700:8dea::1f04:5c6f, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 9, server: 2606:4700:8dea::1f04:5c6f, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-443-WS-TLS 10, server: 2606:4700:8d79::7f98:6590, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 移动-80-WS 10, server: 2606:4700:8d79::7f98:6590, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-443-WS-TLS 2, server: 2606:4700:4408::26f4:1f3f, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-80-WS 2, server: 2606:4700:4408::26f4:1f3f, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-443-WS-TLS 3, server: 2606:4700:4401::3e52:5d60, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-80-WS 3, server: 2606:4700:4401::3e52:5d60, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-443-WS-TLS 4, server: 2606:4700:440c::3d30:7a76, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-80-WS 4, server: 2606:4700:440c::3d30:7a76, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-443-WS-TLS 5, server: 2606:4700:54::284c:4ae5, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-80-WS 5, server: 2606:4700:54::284c:4ae5, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-443-WS-TLS 6, server: 2606:4700:5a::1f7f:69c0, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
-  - {name: 电信-80-WS 6, server: 2606:4700:5a::1f7f:69c0, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS, server: 104.19.174.64, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS, server: 104.19.174.64, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 2, server: 104.24.13.90, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 2, server: 104.24.13.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 3, server: 104.16.62.76, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 3, server: 104.16.62.76, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 4, server: 172.67.77.210, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 4, server: 172.67.77.210, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 5, server: 104.25.253.224, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 5, server: 104.25.253.224, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-443-WS-TLS, server: 104.17.222.119, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-80-WS, server: 104.17.222.119, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-443-WS-TLS 2, server: 104.17.175.138, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-80-WS 2, server: 104.17.175.138, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-443-WS-TLS 3, server: 104.18.221.72, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-80-WS 3, server: 104.18.221.72, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-443-WS-TLS 4, server: 104.16.158.200, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-80-WS 4, server: 104.16.158.200, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-443-WS-TLS 5, server: 104.21.238.162, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 联通-80-WS 5, server: 104.21.238.162, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-443-WS-TLS, server: 172.64.67.231, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-80-WS, server: 172.64.67.231, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-443-WS-TLS 2, server: 104.18.48.167, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-80-WS 2, server: 104.18.48.167, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 6, server: 2606:4700:9a9d::6b10:5cf3, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 6, server: 2606:4700:9a9d::6b10:5cf3, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 7, server: 2606:4700:4700::2550:42da, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 7, server: 2606:4700:4700::2550:42da, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 8, server: 2606:4700:8d9d::666d:228e, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 8, server: 2606:4700:8d9d::666d:228e, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 9, server: 2606:4700:9b0e::466a:7581, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 9, server: 2606:4700:9b0e::466a:7581, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-443-WS-TLS 10, server: 2606:4700:8d91::5cb2:4b0, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 移动-80-WS 10, server: 2606:4700:8d91::5cb2:4b0, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-443-WS-TLS 3, server: 2606:4700:440b::1f2f:6f9b, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-80-WS 3, server: 2606:4700:440b::1f2f:6f9b, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-443-WS-TLS 4, server: 2606:4700:54::4348:41f8, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-80-WS 4, server: 2606:4700:54::4348:41f8, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-443-WS-TLS 5, server: 2606:4700:4402::3889:1c8c, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-80-WS 5, server: 2606:4700:4402::3889:1c8c, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-443-WS-TLS 6, server: 2606:4700:4700::2a48:60d1, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-80-WS 6, server: 2606:4700:4700::2a48:60d1, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-443-WS-TLS 7, server: 2606:4700:440a::233b:5861, port: 443, client-fingerprint: randomized, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, servername: wk2.wz86.dpdns.org, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
+  - {name: 电信-80-WS 7, server: 2606:4700:440a::233b:5861, port: 80, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: false, network: ws, ws-opts: {path: "%2F%3Fed%3D2048", headers: {Host: wk2.wz86.dpdns.org}}}
   - {name: 🇰🇷 韩国_首尔, server: 106.244.201.248, port: 50000, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: wk2.wz86.dpdns.org}}}
   - {name: 🇺🇸 美国_洛杉矶, server: 66.98.121.132, port: 8443, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: wk2.wz86.dpdns.org}}}
   - {name: 🇳🇱 荷兰_阿姆斯特丹, server: 146.0.79.50, port: 443, client-fingerprint: chrome, type: vless, uuid: 484c1dab-6876-4760-816f-bddceca8ab87, tls: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: wk2.wz86.dpdns.org}}}
@@ -293,6 +295,8 @@ proxy-groups:
       - 联通-80-WS 5
       - 电信-443-WS-TLS
       - 电信-80-WS
+      - 电信-443-WS-TLS 2
+      - 电信-80-WS 2
       - 移动-443-WS-TLS 6
       - 移动-80-WS 6
       - 移动-443-WS-TLS 7
@@ -303,8 +307,6 @@ proxy-groups:
       - 移动-80-WS 9
       - 移动-443-WS-TLS 10
       - 移动-80-WS 10
-      - 电信-443-WS-TLS 2
-      - 电信-80-WS 2
       - 电信-443-WS-TLS 3
       - 电信-80-WS 3
       - 电信-443-WS-TLS 4
@@ -313,6 +315,8 @@ proxy-groups:
       - 电信-80-WS 5
       - 电信-443-WS-TLS 6
       - 电信-80-WS 6
+      - 电信-443-WS-TLS 7
+      - 电信-80-WS 7
       - 🇰🇷 韩国_首尔
       - 🇺🇸 美国_洛杉矶
       - 🇳🇱 荷兰_阿姆斯特丹
@@ -504,6 +508,8 @@ proxy-groups:
       - 联通-80-WS 5
       - 电信-443-WS-TLS
       - 电信-80-WS
+      - 电信-443-WS-TLS 2
+      - 电信-80-WS 2
       - 移动-443-WS-TLS 6
       - 移动-80-WS 6
       - 移动-443-WS-TLS 7
@@ -514,8 +520,6 @@ proxy-groups:
       - 移动-80-WS 9
       - 移动-443-WS-TLS 10
       - 移动-80-WS 10
-      - 电信-443-WS-TLS 2
-      - 电信-80-WS 2
       - 电信-443-WS-TLS 3
       - 电信-80-WS 3
       - 电信-443-WS-TLS 4
@@ -524,6 +528,8 @@ proxy-groups:
       - 电信-80-WS 5
       - 电信-443-WS-TLS 6
       - 电信-80-WS 6
+      - 电信-443-WS-TLS 7
+      - 电信-80-WS 7
       - 🇰🇷 韩国_首尔
       - 🇺🇸 美国_洛杉矶
       - 🇳🇱 荷兰_阿姆斯特丹
@@ -716,6 +722,8 @@ proxy-groups:
       - 联通-80-WS 5
       - 电信-443-WS-TLS
       - 电信-80-WS
+      - 电信-443-WS-TLS 2
+      - 电信-80-WS 2
       - 移动-443-WS-TLS 6
       - 移动-80-WS 6
       - 移动-443-WS-TLS 7
@@ -726,8 +734,6 @@ proxy-groups:
       - 移动-80-WS 9
       - 移动-443-WS-TLS 10
       - 移动-80-WS 10
-      - 电信-443-WS-TLS 2
-      - 电信-80-WS 2
       - 电信-443-WS-TLS 3
       - 电信-80-WS 3
       - 电信-443-WS-TLS 4
@@ -736,6 +742,8 @@ proxy-groups:
       - 电信-80-WS 5
       - 电信-443-WS-TLS 6
       - 电信-80-WS 6
+      - 电信-443-WS-TLS 7
+      - 电信-80-WS 7
       - 🇰🇷 韩国_首尔
       - 🇺🇸 美国_洛杉矶
       - 🇳🇱 荷兰_阿姆斯特丹
@@ -860,8 +868,6 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
-      - cfip.cfcdn.vip-80-WS
-      - f3058171cad.002404.xyz-80-WS
       - 🇹🇼 台湾_台北
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
@@ -935,6 +941,8 @@ proxy-groups:
       - 联通-80-WS 5
       - 电信-443-WS-TLS
       - 电信-80-WS
+      - 电信-443-WS-TLS 2
+      - 电信-80-WS 2
       - 移动-443-WS-TLS 6
       - 移动-80-WS 6
       - 移动-443-WS-TLS 7
@@ -945,8 +953,6 @@ proxy-groups:
       - 移动-80-WS 9
       - 移动-443-WS-TLS 10
       - 移动-80-WS 10
-      - 电信-443-WS-TLS 2
-      - 电信-80-WS 2
       - 电信-443-WS-TLS 3
       - 电信-80-WS 3
       - 电信-443-WS-TLS 4
@@ -955,6 +961,8 @@ proxy-groups:
       - 电信-80-WS 5
       - 电信-443-WS-TLS 6
       - 电信-80-WS 6
+      - 电信-443-WS-TLS 7
+      - 电信-80-WS 7
       - 🇰🇷 韩国_首尔
       - 🇺🇸 美国_洛杉矶
       - 🇳🇱 荷兰_阿姆斯特丹
@@ -1146,6 +1154,8 @@ proxy-groups:
       - 联通-80-WS 5
       - 电信-443-WS-TLS
       - 电信-80-WS
+      - 电信-443-WS-TLS 2
+      - 电信-80-WS 2
       - 移动-443-WS-TLS 6
       - 移动-80-WS 6
       - 移动-443-WS-TLS 7
@@ -1156,8 +1166,6 @@ proxy-groups:
       - 移动-80-WS 9
       - 移动-443-WS-TLS 10
       - 移动-80-WS 10
-      - 电信-443-WS-TLS 2
-      - 电信-80-WS 2
       - 电信-443-WS-TLS 3
       - 电信-80-WS 3
       - 电信-443-WS-TLS 4
@@ -1166,6 +1174,8 @@ proxy-groups:
       - 电信-80-WS 5
       - 电信-443-WS-TLS 6
       - 电信-80-WS 6
+      - 电信-443-WS-TLS 7
+      - 电信-80-WS 7
       - 🇰🇷 韩国_首尔
       - 🇺🇸 美国_洛杉矶
       - 🇳🇱 荷兰_阿姆斯特丹
@@ -1358,6 +1368,8 @@ proxy-groups:
       - 联通-80-WS 5
       - 电信-443-WS-TLS
       - 电信-80-WS
+      - 电信-443-WS-TLS 2
+      - 电信-80-WS 2
       - 移动-443-WS-TLS 6
       - 移动-80-WS 6
       - 移动-443-WS-TLS 7
@@ -1368,8 +1380,6 @@ proxy-groups:
       - 移动-80-WS 9
       - 移动-443-WS-TLS 10
       - 移动-80-WS 10
-      - 电信-443-WS-TLS 2
-      - 电信-80-WS 2
       - 电信-443-WS-TLS 3
       - 电信-80-WS 3
       - 电信-443-WS-TLS 4
@@ -1378,6 +1388,8 @@ proxy-groups:
       - 电信-80-WS 5
       - 电信-443-WS-TLS 6
       - 电信-80-WS 6
+      - 电信-443-WS-TLS 7
+      - 电信-80-WS 7
       - 🇰🇷 韩国_首尔
       - 🇺🇸 美国_洛杉矶
       - 🇳🇱 荷兰_阿姆斯特丹
@@ -1579,6 +1591,8 @@ proxy-groups:
       - 联通-80-WS 5
       - 电信-443-WS-TLS
       - 电信-80-WS
+      - 电信-443-WS-TLS 2
+      - 电信-80-WS 2
       - 移动-443-WS-TLS 6
       - 移动-80-WS 6
       - 移动-443-WS-TLS 7
@@ -1589,8 +1603,6 @@ proxy-groups:
       - 移动-80-WS 9
       - 移动-443-WS-TLS 10
       - 移动-80-WS 10
-      - 电信-443-WS-TLS 2
-      - 电信-80-WS 2
       - 电信-443-WS-TLS 3
       - 电信-80-WS 3
       - 电信-443-WS-TLS 4
@@ -1599,6 +1611,8 @@ proxy-groups:
       - 电信-80-WS 5
       - 电信-443-WS-TLS 6
       - 电信-80-WS 6
+      - 电信-443-WS-TLS 7
+      - 电信-80-WS 7
       - 🇰🇷 韩国_首尔
       - 🇺🇸 美国_洛杉矶
       - 🇳🇱 荷兰_阿姆斯特丹
